@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+## Copyright (C) 20XX by Yours Truly Harry
 %persons=('harry' => 'zhou' , 'evelyn' => 'liu');
 print "Please input name:";
 while (chomp($person=<STDIN>)){

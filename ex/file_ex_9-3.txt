@@ -1,0 +1,5 @@
+This year is 2017
+Now is Oct
+Fred is learning english,and fred is a hard learning boy!
+Wilma is learning english,and wilma is a hard learning boy!
+`

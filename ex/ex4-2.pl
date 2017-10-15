@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+## Copyright (C) 20XX by Yours Truly Harry
 sub total{
 	my $ret=0;
 	foreach my $num (@_){

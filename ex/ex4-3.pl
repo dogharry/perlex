@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+## Copyright (C) 20XX by Yours Truly Harry
 use strict;
 use 5.010;
 sub average{

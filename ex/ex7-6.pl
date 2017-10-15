@@ -1,3 +1,3 @@
 #!/usr/bin/perl
 ## Copyright (C) 20XX by Yours Truly Harry
-print reverse <>
+while (<>){if(/wilma.*fred/ | /fred.*wilma/) {print;}}

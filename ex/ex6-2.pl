@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+## Copyright (C) 20XX by Yours Truly Harry
 my %words=();
 while (chomp($input=<STDIN>)){
   if(exists $words{$input}){
